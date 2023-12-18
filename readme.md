@@ -1,6 +1,6 @@
 ##  Hogwarts University website
 
-## it has been done by me , Dariya Takenova, and my teammates at the class as it was a project
+## it has been done by me , Dariya (Darius) Takenova, and my teammates at the class as it was a project
 
 ## Tasks
 
